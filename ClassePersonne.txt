@@ -1,1 +1,2 @@
 I love Zelda
+Ajout d'une méthode
